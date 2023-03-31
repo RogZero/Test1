@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eWXws0B9PbuHlpnZIqzUNo/rZYk7F7/FUjooNKufzg/SRdKk8gOs9rR7gxksVv0peBF85xCTDKjovGn/APX+7A==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\5Test\\5Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elext\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\elext\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\elext\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\elext\\.nuget\\packages\\stackexchange.redis\\2.6.96\\stackexchange.redis.2.6.96.nupkg.sha512",
+    "C:\\Users\\elext\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
