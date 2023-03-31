@@ -44,6 +44,8 @@ class Program
         // Close the connection
         connection.Close();
 
+        Console.WriteLine("HALLO");
+
         // TEST2
     }
 }
